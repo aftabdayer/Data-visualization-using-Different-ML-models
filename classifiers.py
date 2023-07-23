@@ -14,6 +14,7 @@ from sklearn.naive_bayes import GaussianNB
 # )
 
 from sklearn.metrics import confusion_matrix
+
 import matplotlib.pyplot as plt
 
 class Classifier:
